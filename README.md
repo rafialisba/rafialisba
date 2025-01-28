@@ -19,7 +19,7 @@ I’m open to collaborations, feedback, and learning opportunities. If you have 
 
 🔗 **Get in Touch**:  
 - Email: alisbarafi7@gmail.com  
-- Portfolio: [In Development]
+- Portfolio: https://portfolio-rafi-tau.vercel.app/
 
 🌟 Always learning, always improving! 😊
 
