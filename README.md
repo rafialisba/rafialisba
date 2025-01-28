@@ -22,3 +22,5 @@ I’m open to collaborations, feedback, and learning opportunities. If you have 
 - Portfolio: [In Development]
 
 🌟 Always learning, always improving! 😊
+
+[![](https://visitcount.itsvg.in/api?id=rafialisba&icon=2&color=0)](https://visitcount.itsvg.in)
