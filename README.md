@@ -1,5 +1,7 @@
 ### Hi, I'm Rafi! 👋
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rafialisba.rafialisba)
+
 🌐 **Aspiring Web Developer**  
 I’m passionate about building modern and functional websites. I’m still learning and improving, but I’m always excited to take on new challenges!  
 
