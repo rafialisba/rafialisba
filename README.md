@@ -18,11 +18,3 @@ I’m passionate about building modern and functional websites. I’m still lear
 
 📩 **Let’s Connect!**  
 I’m open to collaborations, feedback, and learning opportunities. If you have a project or just want to chat about web development, feel free to reach out!  
-
-🔗 **Get in Touch**:  
-- Email: alisbarafi7@gmail.com  
-- Portfolio: https://portfolio-rafi-tau.vercel.app/
-
-🌟 Always learning, always improving! 😊
-
-[![](https://visitcount.itsvg.in/api?id=rafialisba&icon=2&color=0)](https://visitcount.itsvg.in)
