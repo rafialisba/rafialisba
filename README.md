@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="season1-1.gif" alt="Yofukashi Season 1 - Gif 1" width="250" />
-  <img src="season1-2.gif" alt="Yofukashi Season 1 - Gif 2" width="250" />
-</p>
-
-<p align="center">
-  <img src="season2.gif" alt="Yofukashi Season 2 - Gif" width="300" />
-</p>
-
----
-
 ### Hi, I'm Rafi! 👋
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rafialisba.rafialisba)
